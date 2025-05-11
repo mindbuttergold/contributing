@@ -1,2 +1,1 @@
-# contributing
-Important information for public contributors
+# Contributing Guidelines
